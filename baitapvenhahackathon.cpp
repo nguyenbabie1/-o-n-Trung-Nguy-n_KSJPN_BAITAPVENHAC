@@ -3,11 +3,11 @@
 int main(){
 	int arr[50];
 	int choice, number;
-	do{
 	int max=0, Max=0; 
 	int position, value;
 	int total, check=-1, temp, minus; 
 	int maxxin, maxTwo, min, minTwo; 
+	do{
 		printf("\n\t           ---MENU---\n");
 		printf("1. Nhap so luong va gia tri cho cac phan tu\n");
 		printf("2. In mang (arr[0]=..., arr[1]=...)\n");
